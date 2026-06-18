@@ -4365,133 +4365,133 @@
         "passive": {
             "forms": [
                 {
-                    "result": "あられる"
+                    "result": "いられる"
                 }
             ]
         },
         "passive negative": {
             "forms": [
                 {
-                    "result": "あられない"
+                    "result": "いられない"
                 }
             ]
         },
         "passive past": {
             "forms": [
                 {
-                    "result": "あられた"
+                    "result": "いられた"
                 }
             ]
         },
         "passive past negative": {
             "forms": [
                 {
-                    "result": "あられなかった"
+                    "result": "いられなかった"
                 }
             ]
         },
         "passive te-form": {
             "forms": [
                 {
-                    "result": "あられて"
+                    "result": "いられて"
                 }
             ]
         },
         "polite passive": {
             "forms": [
                 {
-                    "result": "あられます"
+                    "result": "いられます"
                 }
             ]
         },
         "polite passive negative": {
             "forms": [
                 {
-                    "result": "あられません"
+                    "result": "いられません"
                 }
             ]
         },
         "polite passive past": {
             "forms": [
                 {
-                    "result": "あられました"
+                    "result": "いられました"
                 }
             ]
         },
         "polite passive past negative": {
             "forms": [
                 {
-                    "result": "あられませんでした"
+                    "result": "いられませんでした"
                 }
             ]
         },
         "causative": {
             "forms": [
                 {
-                    "result": "あらせる"
+                    "result": "いらせる"
                 }
             ]
         },
         "causative negative": {
             "forms": [
                 {
-                    "result": "あらせない"
+                    "result": "いらせない"
                 }
             ]
         },
         "causative past": {
             "forms": [
                 {
-                    "result": "あらせた"
+                    "result": "いらせた"
                 }
             ]
         },
         "causative past negative": {
             "forms": [
                 {
-                    "result": "あらせなかった"
+                    "result": "いらせなかった"
                 }
             ]
         },
         "causative passive": {
             "forms": [
                 {
-                    "result": "あらせられる"
+                    "result": "いらせられる"
                 }
             ]
         },
         "causative passive negative": {
             "forms": [
                 {
-                    "result": "あらせられない"
+                    "result": "いらせられない"
                 }
             ]
         },
         "causative passive past": {
             "forms": [
                 {
-                    "result": "あらせられた"
+                    "result": "いらせられた"
                 }
             ]
         },
         "causative passive past negative": {
             "forms": [
                 {
-                    "result": "あらせられなかった"
+                    "result": "いらせられなかった"
                 }
             ]
         },
         "volitional": {
             "forms": [
                 {
-                    "result": "あろう"
+                    "result": "いろう"
                 }
             ]
         },
         "polite volitional": {
             "forms": [
                 {
-                    "result": "ありましょう"
+                    "result": "いりましょう"
                 }
             ]
         }
