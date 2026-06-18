@@ -8,14 +8,19 @@ Shikon: #410845;
 Kurenai: #992a2a;
 Midori: #217b21;
 Kohaku: #995c2a;
-Shiro: white; */
+Shiro: white;
+
+Sorry Landon, ich bin mehr der Rot-Liebhaber
+Shinkou: #e5001e;
+
+*/
 
 
 body, input {
   font-family: "Noto Sans JP", sans-serif;
   background: #dbe0e4;
 
-  --other: #77428D;
+  --other: #e5001e;
   --neutral-dark: #410845;
   --incorrect: #992a2a;
   --correct: #217b21;
