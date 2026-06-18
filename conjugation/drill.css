@@ -11,15 +11,15 @@ Kohaku: #995c2a;
 Shiro: white;
 
 Sorry Landon, ich bin mehr der Rot-Liebhaber
-Shinkou: #e5001e;
-Kiiro: #ffff00;
+Shinkou: #e5001e
+Kiiro: #ffff00
+Kinari: #eae0d5
 
 */
 
-
 body, input {
   font-family: "Noto Sans JP", sans-serif;
-  background: #dbe0e4;
+  background: #eae0d5;
 
   --other: #e5001e;
   --neutral-dark: #410845;
