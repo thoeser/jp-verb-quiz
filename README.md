@@ -1,6 +1,9 @@
 While learning Japanese, I stumbled upon the original Don's Japanese Conjugation Drill, followed by LanDon's extended version, and I found both to be very helpful.
+
 However, as my knowledge of Japanese has grown, I have started to notice some drill questions that seemed like errors to me.
 This is my humble attempt to make this test even better. Please keep in mind that I am still a beginner in Japanese. I encourage you to learn the conjugation rules thoroughly, and if something in this test doesn't look right, please consult a dictionary.
+
+**This is not jet fully functional atm. Please don't use it atm!**
 
 Below is the original README from LanDon:
 
