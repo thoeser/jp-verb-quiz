@@ -238,6 +238,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "meet",
             "to"
@@ -311,6 +312,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "accompany",
             "to"
@@ -444,7 +446,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E4%BD%BF%E3%81%86&kanji=%E4%BD%BF%E3%81%86"
     },
     "使える": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "使[つか]える",
         "meaning": "to be able to use",
         "reading": "つかえる",
@@ -457,7 +459,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "be able to use",
             "to"
@@ -613,7 +615,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B&kanji=%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B"
     },
     "信じる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "信[しん]じる",
         "meaning": "to believe",
         "reading": "しんじる",
@@ -626,8 +628,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "believe",
             "to"
@@ -980,7 +982,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B&kanji=%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B"
     },
     "出来る": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "出[で]来[き]る",
         "meaning": "to be able to do",
         "reading": "できる",
@@ -993,7 +995,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "be able to do",
             "to"
@@ -1077,7 +1079,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%88%86%E9%9B%A2%E3%81%99%E3%82%8B&kanji=%E5%88%86%E9%9B%A2%E3%81%99%E3%82%8B"
     },
     "切り替える": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "切[き]り替[か]える",
         "meaning": "to switch",
         "reading": "きりかえる",
@@ -1090,8 +1092,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "switch",
             "to"
@@ -1270,7 +1272,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%89%8A%E9%99%A4%E3%81%99%E3%82%8B&kanji=%E5%89%8A%E9%99%A4%E3%81%99%E3%82%8B"
     },
     "割り当てる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "割[わ]り当[あ]てる",
         "meaning": "to assign",
         "reading": "わりあてる",
@@ -1283,8 +1285,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "assign",
             "to"
@@ -1358,6 +1360,7 @@
         "tags": [
             "verb",
             "intransitive",
+            "transitive",
             "godan",
             "n5",
             "move",
@@ -1539,7 +1542,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B&kanji=%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B"
     },
     "取り出す": {
-        "group": "ichidan",
+        "group": "godan",
         "dictionary": "取[と]り出[だ]す",
         "meaning": "to take out",
         "reading": "とりだす",
@@ -1552,8 +1555,8 @@
         ],
         "tags": [
             "verb",
+            "godan",
             "transitive",
-            "ichidan",
             "n5",
             "take out",
             "to"
@@ -1663,7 +1666,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%8F%97%E5%85%A5%E3%82%8C%E3%82%8B&kanji=%E5%8F%97%E5%85%A5%E3%82%8C%E3%82%8B"
     },
     "受け取る": {
-        "group": "ichidan",
+        "group": "godan",
         "dictionary": "受[う]け取[と]る",
         "meaning": "to receive",
         "reading": "うけとる",
@@ -1676,8 +1679,8 @@
         ],
         "tags": [
             "verb",
+            "godan",
             "transitive",
-            "ichidan",
             "n5",
             "receive",
             "to"
@@ -2326,7 +2329,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%AE%8C%E4%BA%86%E3%81%99%E3%82%8B&kanji=%E5%AE%8C%E4%BA%86%E3%81%99%E3%82%8B"
     },
     "定める": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "定[さだ]める",
         "meaning": "to decide",
         "reading": "さだめる",
@@ -2339,8 +2342,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "decide",
             "to"
@@ -2643,7 +2646,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%BA%A7%E3%82%8B&kanji=%E5%BA%A7%E3%82%8B"
     },
     "延びる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "延[の]びる",
         "meaning": "to extend",
         "reading": "のびる",
@@ -2656,8 +2659,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "intransitive",
-            "godan",
             "n5",
             "extend",
             "to"
@@ -2730,19 +2733,19 @@
         ],
         "tags": [
             "verb",
-            "intransitive",
             "godan",
+            "transitive",
             "n5",
             "wait",
             "to"
         ],
         "notes": [
-            "待つ is an intransitive verb, which means it does not take a direct object. It is used to describe waiting or staying for something."
+            "待つ is an transitive verb, which means it does not take a direct object. It is used to describe waiting or staying for something."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%BE%85%E3%81%A4&kanji=%E5%BE%85%E3%81%A4"
     },
     "得る": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "得[え]る",
         "meaning": "to gain",
         "reading": "える",
@@ -2755,8 +2758,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "gain",
             "to"
@@ -2816,7 +2819,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E6%80%A5%E3%81%90&kanji=%E6%80%A5%E3%81%90"
     },
     "感じる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "感[かん]じる",
         "meaning": "to feel",
         "reading": "かんじる",
@@ -2829,8 +2832,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "feel",
             "to"
@@ -3136,7 +3139,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E6%8C%BF%E5%85%A5%E3%81%99%E3%82%8B&kanji=%E6%8C%BF%E5%85%A5%E3%81%99%E3%82%8B"
     },
     "接する": {
-        "group": "godan",
+        "group": "suru",
         "dictionary": "接[せっ]する",
         "meaning": "to touch",
         "reading": "せっする",
@@ -3149,13 +3152,13 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "suru",
             "n5",
             "touch",
             "to"
         ],
         "notes": [
-            "接する is a godan verb, which means it is a verb that ends in する. It is used to describe touching or coming into contact with something."
+            "接する is a suru verb, which means it is a verb that ends in する. It is used to describe touching or coming into contact with something."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E6%8E%A5%E3%81%99%E3%82%8B&kanji=%E6%8E%A5%E3%81%99%E3%82%8B"
     },
@@ -3208,7 +3211,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E6%8E%A5%E8%A7%A6%E3%81%99%E3%82%8B&kanji=%E6%8E%A5%E8%A7%A6%E3%81%99%E3%82%8B"
     },
     "掲げる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "掲[かか]げる",
         "meaning": "to raise",
         "reading": "かかげる",
@@ -3221,8 +3224,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "raise",
             "to"
@@ -3635,6 +3638,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "sing",
             "to"
@@ -3684,6 +3688,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "walk",
             "to"
@@ -3708,6 +3713,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "die",
             "to"
@@ -3732,6 +3738,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "remain",
             "to"
@@ -3904,6 +3911,8 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
+            "intransitive",
             "n5",
             "swim",
             "to"
@@ -4013,7 +4022,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E7%85%A7%E5%B0%84%E3%81%99%E3%82%8B&kanji=%E7%85%A7%E5%B0%84%E3%81%99%E3%82%8B"
     },
     "現れる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "現[あらわ]れる",
         "meaning": "to appear",
         "reading": "あらわれる",
@@ -4026,8 +4035,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "intransitive",
-            "godan",
             "n5",
             "appear",
             "to"
@@ -4062,7 +4071,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B&kanji=%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B"
     },
     "生きる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "生[い]きる",
         "meaning": "to live",
         "reading": "いきる",
@@ -4075,7 +4084,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "live",
             "to"
@@ -4086,7 +4095,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E7%94%9F%E3%81%8D%E3%82%8B&kanji=%E7%94%9F%E3%81%8D%E3%82%8B"
     },
     "生じる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "生[しょう]じる",
         "meaning": "to arise",
         "reading": "しょうじる",
@@ -4099,8 +4108,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "intransitive",
-            "godan",
             "n5",
             "arise",
             "to"
@@ -4135,7 +4144,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B&kanji=%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B"
     },
     "用いる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "用[もち]いる",
         "meaning": "to use",
         "reading": "もちいる",
@@ -4148,7 +4157,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "use",
             "to"
@@ -4441,6 +4450,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "stand",
             "to"
@@ -4598,7 +4608,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E7%B6%9A%E3%81%8F&kanji=%E7%B6%9A%E3%81%8F"
     },
     "続ける": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "続[つづ]ける",
         "meaning": "to continue",
         "reading": "つづける",
@@ -4611,8 +4621,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "continue",
             "to"
@@ -4721,7 +4731,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E7%BD%AE%E3%81%8F&kanji=%E7%BD%AE%E3%81%8F"
     },
     "考える": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "考[かんが]える",
         "meaning": "to think",
         "reading": "かんがえる",
@@ -4734,8 +4744,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "think",
             "to"
@@ -4760,6 +4770,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "listen",
             "to"
@@ -4770,7 +4781,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%81%9E%E3%81%8F&kanji=%E8%81%9E%E3%81%8F"
     },
     "聞こえる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "聞[き]こえる",
         "meaning": "to be heard",
         "reading": "きこえる",
@@ -4783,8 +4794,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "intransitive",
-            "godan",
             "n5",
             "be heard",
             "to"
@@ -4834,6 +4845,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "arrive",
             "to"
@@ -4858,6 +4870,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "conduct",
             "to"
@@ -4989,7 +5002,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%A4%92%E3%82%81%E3%82%8B&kanji=%E8%A4%92%E3%82%81%E3%82%8B"
     },
     "要する": {
-        "group": "godan",
+        "group": "suru",
         "dictionary": "要[い]する",
         "meaning": "to require",
         "reading": "いする",
@@ -5002,13 +5015,13 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "suru",
             "n5",
             "require",
             "to"
         ],
         "notes": [
-            "要する is a godan verb, which means it is a verb that ends in する. It is used to describe requiring or needing something."
+            "要する is a suru verb, which means it is a verb that ends in する. It is used to describe requiring or needing something."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%A6%81%E3%81%99%E3%82%8B&kanji=%E8%A6%81%E3%81%99%E3%82%8B"
     },
@@ -5037,7 +5050,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%A6%81%E6%B1%82%E3%81%99%E3%82%8B&kanji=%E8%A6%81%E6%B1%82%E3%81%99%E3%82%8B"
     },
     "見える": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "見[み]える",
         "meaning": "to be visible",
         "reading": "みえる",
@@ -5050,8 +5063,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "intransitive",
-            "godan",
             "n5",
             "be visible",
             "to"
@@ -5087,7 +5100,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%A6%8B%E3%81%9B%E3%82%8B&kanji=%E8%A6%8B%E3%81%9B%E3%82%8B"
     },
     "見つける": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "見[み]つける",
         "meaning": "to find",
         "reading": "みつける",
@@ -5100,8 +5113,8 @@
         ],
         "tags": [
             "verb",
+            "ichidan",
             "transitive",
-            "godan",
             "n5",
             "find",
             "to"
@@ -5112,7 +5125,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%A6%8B%E3%81%A4%E3%81%91%E3%82%8B&kanji=%E8%A6%8B%E3%81%A4%E3%81%91%E3%82%8B"
     },
     "見る": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "見[み]る",
         "meaning": "to see",
         "reading": "みる",
@@ -5125,7 +5138,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "see",
             "to"
@@ -5184,7 +5197,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%A8%80%E3%81%86&kanji=%E8%A8%80%E3%81%86"
     },
     "言える": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "言[い]える",
         "meaning": "to be able to say",
         "reading": "いえる",
@@ -5197,7 +5210,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "be able to say",
             "to"
@@ -5366,6 +5379,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "speak",
             "to"
@@ -5487,6 +5501,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "read",
             "to"
@@ -5497,7 +5512,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%AA%AD%E3%82%80&kanji=%E8%AA%AD%E3%82%80"
     },
     "調べる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "調[しら]べる",
         "meaning": "to investigate",
         "reading": "しらべる",
@@ -5510,7 +5525,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "investigate",
             "to"
@@ -5584,6 +5599,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "buy back",
             "to"
@@ -5633,6 +5649,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "buy",
             "to"
@@ -5755,6 +5772,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "add",
             "to"
@@ -5803,6 +5821,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "return",
             "to"
@@ -5876,6 +5895,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "send",
             "to"
@@ -5910,7 +5930,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E9%80%81%E4%BF%A1%E3%81%99%E3%82%8B&kanji=%E9%80%81%E4%BF%A1%E3%81%99%E3%82%8B"
     },
     "逃げる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "逃[に]げる",
         "meaning": "to escape",
         "reading": "にげる",
@@ -5923,7 +5943,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "escape",
             "to"
@@ -5948,6 +5968,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "pass",
             "to"
@@ -6068,6 +6089,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "advance",
             "to"
@@ -6092,6 +6114,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "play",
             "to"
@@ -6116,6 +6139,7 @@
         "tags": [
             "verb",
             "godan",
+            "intransitive",
             "n5",
             "differ",
             "to"
@@ -6164,6 +6188,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "choose",
             "to"
@@ -6343,7 +6368,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E9%9A%A3%E6%8E%A5%E3%81%99%E3%82%8B&kanji=%E9%9A%A3%E6%8E%A5%E3%81%99%E3%82%8B"
     },
     "離れる": {
-        "group": "godan",
+        "group": "ichidan",
         "dictionary": "離[はな]れる",
         "meaning": "to separate",
         "reading": "はなれる",
@@ -6356,7 +6381,7 @@
         ],
         "tags": [
             "verb",
-            "godan",
+            "ichidan",
             "n5",
             "separate",
             "to"
@@ -6381,6 +6406,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "request",
             "to"
@@ -6430,6 +6456,7 @@
         "tags": [
             "verb",
             "godan",
+            "transitive",
             "n5",
             "drink",
             "to"
@@ -6790,7 +6817,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E4%B8%8A%E6%89%8B%E3%81%9A%E3%81%A0&kanji=%E4%B8%8A%E6%89%8B%E3%81%9A%E3%81%A0"
     },
     "幸い": {
-        "group": "i-adjective",
+        "group": "na-adjective",
         "dictionary": "幸[さいわ]いだ",
         "meaning": "fortunate",
         "reading": "さいわいだ",
@@ -6803,12 +6830,12 @@
         ],
         "tags": [
             "adjective",
-            "i-adjective",
+            "na-adjective",
             "n5",
             "fortunate"
         ],
         "notes": [
-            "幸い is a na-adjective that means fortunate. It is used to describe someone who is lucky or blessed."
+            "幸い is a i-adjective that means fortunate. It is used to describe someone who is lucky or blessed."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%B9%B8%E3%81%84%E3%81%A0&kanji=%E5%B9%B8%E3%81%84%E3%81%A0"
     },
@@ -6877,7 +6904,7 @@
             "bad-tasting"
         ],
         "notes": [
-            "不味い is a na-adjective that means bad-tasting. It is used to describe food or drink that is unappetizing or unpleasant."
+            "不味い is a i-adjective that means bad-tasting. It is used to describe food or drink that is unappetizing or unpleasant."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E4%B8%8D%E5%91%B3%E3%81%84&kanji=%E4%B8%8D%E5%91%B3%E3%81%84"
     },
@@ -6946,7 +6973,7 @@
             "round"
         ],
         "notes": [
-            "丸い is a na-adjective that means round. It is used to describe something that is circular or spherical."
+            "丸い is a i-adjective that means round. It is used to describe something that is circular or spherical."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E4%B8%B8%E3%81%84&kanji=%E4%B8%B8%E3%81%84"
     },
@@ -6969,7 +6996,7 @@
             "low"
         ],
         "notes": [
-            "低い is a na-adjective that means low. It is used to describe something that is close to the ground or base."
+            "低い is a i-adjective that means low. It is used to describe something that is close to the ground or base."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E4%BD%8E%E3%81%84&kanji=%E4%BD%8E%E3%81%84"
     },
@@ -7038,7 +7065,7 @@
             "kind"
         ],
         "notes": [
-            "優しい is a na-adjective that means kind. It is used to describe someone who is gentle or compassionate."
+            "優しい is a i-adjective that means kind. It is used to describe someone who is gentle or compassionate."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%84%AA%E3%81%97%E3%81%84&kanji=%E5%84%AA%E3%81%97%E3%81%84"
     },
@@ -7549,7 +7576,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E5%A6%99%E3%81%AA&kanji=%E5%A6%99%E3%81%AA"
     },
     "嫌い": {
-        "group": "i-adjective",
+        "group": "na-adjective",
         "dictionary": "嫌[きら]い",
         "meaning": "dislike",
         "reading": "きらい",
@@ -7562,7 +7589,7 @@
         ],
         "tags": [
             "adjective",
-            "i-adjective",
+            "na-adjective",
             "n5",
             "dislike"
         ],
@@ -7940,7 +7967,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E6%99%AE%E9%80%9A%E3%81%AA&kanji=%E6%99%AE%E9%80%9A%E3%81%AA"
     },
     "暑い": {
-        "group": "na-adjective",
+        "group": "i-adjective",
         "dictionary": "暑[あつ]い",
         "meaning": "hot",
         "reading": "あつい",
@@ -7953,7 +7980,7 @@
         ],
         "tags": [
             "adjective",
-            "na-adjective",
+            "i-adjective",
             "n5",
             "hot"
         ],
@@ -7963,7 +7990,7 @@
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E6%9A%91%E3%81%84&kanji=%E6%9A%91%E3%81%84"
     },
     "暖かい": {
-        "group": "na-adjective",
+        "group": "i-adjective",
         "dictionary": "暖[あたた]かい",
         "meaning": "warm",
         "reading": "あたたかい",
@@ -7976,7 +8003,7 @@
         ],
         "tags": [
             "adjective",
-            "na-adjective",
+            "i-adjective",
             "n5",
             "warm"
         ],
@@ -8556,7 +8583,7 @@
             "chilly"
         ],
         "notes": [
-            "肌寒い is a ni-adjective that means chilly. It is used to describe something that is cool or brisk."
+            "肌寒い is a i-adjective that means chilly. It is used to describe something that is cool or brisk."
         ],
         "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E8%82%8C%E5%AF%92%E3%81%84&kanji=%E8%82%8C%E5%AF%92%E3%81%84"
     },
